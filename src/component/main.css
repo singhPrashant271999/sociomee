@@ -1,0 +1,227 @@
+
+
+.bg {
+  background-image: url("C:\Users\SunnyMern\Desktop\sociomee\home\src\icon\Rectangle 8.png");
+  height: 470px;
+  width: 1224px; 
+  position: relative;/* Set an appropriate height to display the image */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 17px;
+  margin-left: 20px;
+  border: 2px solid whitesmoke;
+  border-radius: 5px,5px,0px,0px;
+
+}
+.custom-card {
+  position: absolute;
+   top: 89px;
+  width: 300px;
+  height: 235px;
+  
+  left: 30px;
+ box-shadow: 1px 1px 10px 1px;
+  opacity: 1.3;
+  background: rgba(22, 195, 30, 0.2);
+  border-radius: 5px;
+
+  
+  
+ 
+  
+}
+.custom-card h2{
+  position: absolute;
+  margin-left: 11px;
+  color: aliceblue;
+
+}
+.bg h1 {
+  color: aliceblue;
+  position: absolute;
+  top: 248px; /* Move the h1 to the vertical center */
+  left: 800px; /* Move the h1 to the horizontal center */
+  transform: translate(-50%, -50%); 
+  font-size: 70px;
+  width: 780px;
+  height: 105px;
+}
+
+.bg second-h1 {
+  color: aliceblue;
+  font-size: 36px; /* Set the font size for the second h1 */
+  position: absolute;
+  top: 60%; /* Adjust the top position as per your preference */
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+
+.custom-card p{
+  position: absolute;
+  bottom :  40%;
+  left: 5%;
+  color: aliceblue;
+}
+
+.nav2{
+  position: absolute;
+  right: 50%;
+  top: 60%;
+  color: aliceblue;
+  width: 200px;
+}
+.edit{
+  position: absolute;
+  right: 10%;
+  top: 10%;
+  color: rgb(7, 230, 155);
+}
+
+.tabel{
+  background-color:white ;
+  margin-left: 21px;
+  
+ 
+  height: 120px;
+ 
+  
+    
+ 
+}
+.cal{
+  position: absolute;
+  left: -25%;
+  top: 29%;
+  background: rgba(129, 193, 75, 0.2);
+
+   background-color: lightgreen ;
+   opacity: .8;
+border-radius: 5px;
+ 
+ 
+}
+
+.tabel2{
+  position: absolute;
+  left: 22%;
+  line-height: 8px;
+}
+
+.week{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 410px;
+  margin-right: 33px; 
+  color: lightgreen; 
+  
+}
+.week2{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 352px;
+}
+.tabel{
+ 
+  background-color: white;
+  box-shadow: 0px 0px 10px 0px #7EB26233;
+  margin-right: 15px;
+  
+  
+  
+ 
+}
+
+.toogle{
+  
+  width: 1215px;
+margin-top: 30px;
+margin-left: 23px;
+margin-right: 20px;
+box-shadow: 0px 0px 10px 0px #7EB26233;
+height: 91px;
+}
+
+
+.upc{
+  position: absolute;
+  left: 21%;
+  top:76%;
+  background-color: lightgreen;
+ 
+  width: 100px; 
+ 
+}
+
+
+.eve{
+  position: absolute;
+  left: 27%;
+  top: 76%;
+  
+  width: 101px;
+  height: 35px;
+  
+  
+}
+.container {
+  margin: 100px auto;
+  width: 450px;
+  height: 50px;
+  position: absolute;
+  box-shadow: 0px 0px 10px 0px #7EB26233;
+  border-radius: 10px;
+ 
+  right: 30%;
+  top: 65%;
+}
+
+/* The point of this tutorial is here */
+.form {
+  display: flex;
+  flex-direction: row;
+}
+.search-field {
+  width: 100%;
+  padding: 10px 35px 10px 15px;
+  border: none;
+  border-radius: 100px;
+  outline: none;
+}
+
+.search-button {
+ 
+  border: none;
+  outline: none;
+  position: absolute;
+  margin-left: 50%;
+  top: 25%;
+  
+}
+
+.search-button img {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.filter{
+  position: absolute;
+  width: 109px;
+  height: 40px;
+  left: 120%;
+  border-radius: 15px;
+  background:#FCFCFF ;
+  top:10%
+  
+}
+
+.ser{
+  position: absolute;
+
+  
+}
+.appd{
+
+}

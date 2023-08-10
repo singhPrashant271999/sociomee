@@ -1,0 +1,43 @@
+.sidenav {
+  /* display: flex; */
+  /* flex-direction: column; */
+  background-color: white;
+  padding: 15px;
+  border: 1px solid #34f704;
+  border-radius: 5px;
+  width: 300px;
+  margin-top: 17px;
+  margin-left: 20px;
+  height: 886px;
+  box-shadow: 0px 0px 10px 0px;
+  /* overflow-y: auto;
+  scrollbar-width: thin; */
+  scrollbar-color: #00ff95 rgb(248, 12, 12);
+}
+
+.sidenav-content {
+  height: 100%; /* Set the height of the sidenav content */
+}
+
+.sidenav a {
+  display: flex;
+  align-items: center;
+
+  text-decoration: none;
+  color: black;
+  margin-left: 5px;
+  padding-block: 25px;
+  
+}
+
+.sidenav a svg {
+  margin-right: 8px;
+}
+
+.sidenav a:hover {
+  color: #00ff95;
+}
+
+
+
+

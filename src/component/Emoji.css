@@ -1,0 +1,50 @@
+.sidenav1 {
+    
+    background-color: white;
+    padding: 10px, 0px, 10px, 0px;
+    border: 1px solid #34f704;
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 33px;
+    height: 1100px;
+    box-shadow: 0px 1px 10px 0px;
+    /* overflow-y: auto;
+    scrollbar-width: thin; */
+    scrollbar-color: #00ff95 rgb(248, 12, 12);
+  }
+  
+  .sidenav-content1 {
+    height: 100%; /* Set the height of the sidenav content */
+  }
+  
+  .sidenav1 a {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    margin: 0px;
+  }
+  
+  
+  .sidenav1 a:hover {
+    color: black;
+    background-color: rgba(129, 193, 75, 0.2);
+   
+
+   
+  }
+
+  .all{
+   margin-left: 20px;
+  }
+
+  .sidenav1 h3{
+    font-size: large;
+  }
+  .cat{
+    margin-left: 30px;
+    height: 20px;
+    padding: 2px;
+  }

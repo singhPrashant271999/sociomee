@@ -1,0 +1,93 @@
+.sidenav2 {
+    /* display: flex; */
+    /* flex-direction: column; */
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #34f704;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 17px;
+    margin-left: 20px;
+    border-radius: 5px;
+    
+    height: 886px;
+    box-shadow: 0px 0px 10px 0px;
+    /* overflow-y: auto;
+    scrollbar-width: thin; */
+    scrollbar-color: #00ff95 rgb(248, 12, 12);
+  }
+  
+  .sidenav2-content {
+    height: 100%; /* Set the height of the sidenav content */
+  }
+  
+  .sidenav2 a {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+  }
+  
+  .sidenav2 a svg {
+    margin-right: 8px;
+  }
+  
+  .sidenav2 a:hover {
+    color: #00ff95;
+  }
+  
+  .dot{
+    position: absolute;
+    right: 60px;
+    top: 191px;
+  }
+  .search-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    width: 220px;
+    height: 30px;
+    margin-top: 15px;
+  }
+  
+  .search-icon {
+    margin-right: 5px;
+    height: 20px;
+  }
+  
+  .search-input {
+    border: none;
+    outline: none;
+    width: 100%;
+  }
+
+  .icon12{
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    font-weight: bold;
+    margin-top: 25px;
+  }
+  .va{
+    margin: 11px;
+    font-weight: bold;
+  }
+
+  .pt{
+    position: absolute;
+    margin-left: 75px;
+    margin-top: -35px;
+    font-weight: lighter;
+  }
+  .re{
+    margin: 10px;
+    margin-top: 12px;
+  }
+  .DOT{
+    margin-left: 52px;
+    margin-top: -30px;
+  }
